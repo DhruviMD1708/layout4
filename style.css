@@ -1,0 +1,58 @@
+.align{
+    align:left;
+}
+.btnorange{
+    background-color: #FA8830;
+    width:25%;
+    height:3%;
+    
+}
+.circle{
+    border-radius:50%;
+}
+.margin{
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.pillbtn{
+    background-color:#FB8B29;
+    border-radius:16px;
+    padding-left:3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 3%;
+    color:white;
+}
+.design{
+    font-size:25;
+    font-weight:400;
+}
+.support{
+    font-size:20;
+    font-weight:200;
+}
+.how{
+    font-size:13;
+}
+.we{
+    font-size:24;
+    font-weight:300;
+}
+.blue{
+    background-image:url('');
+    background-position:contain;
+    background-repeat: no-repeat;
+}
+.box {
+    width: 94%;
+    margin-left: 3%;
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+    height: 45vh;
+    box-sizing: border-box;
+    padding-top: 2.5%;
+}   
+.design{
+     
+    font-size:\;
+}
